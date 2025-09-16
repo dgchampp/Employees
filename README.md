@@ -22,7 +22,7 @@ project_root/
 └── requirements.txt
 ```
 
-## 🚀 Features
+##Features
 
 - **JWT Authentication** - Secure user registration and login
 - **Employee CRUD Operations** - Create, read, update, and delete employees
@@ -32,7 +32,7 @@ project_root/
 - **Data Validation** - Robust input validation using Pydantic models
 - **MongoDB Integration** - Async MongoDB operations with Motor
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **FastAPI** - Modern, fast web framework for building APIs
 - **MongoDB** - NoSQL database for data storage
@@ -42,7 +42,7 @@ project_root/
 - **Passlib** - Password hashing utilities
 - **Bcrypt** - Secure password hashing
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.8+
 - MongoDB 4.0+ (running locally or remote instance)
