@@ -200,3 +200,4 @@ ACCESS_TOKEN_EXPIRE_MINUTES = 60
 # Application Configuration
 API_TITLE = "Employees API"
 ```
+```Note : The current secret key is just for demo purposes. Before using this in production or sharing it,generate a proper secret key and replace the one in `config.py`. Your JWT tokens will thank you!  ```
