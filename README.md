@@ -1,4 +1,5 @@
 #📁 Project Structure
+```text
 project_root/
 ├── app/
 │   ├── config.py
@@ -15,3 +16,4 @@ project_root/
 │       ├── routes.py
 │       └── utils.py
 └── requirements.txt
+```
