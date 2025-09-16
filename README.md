@@ -81,7 +81,7 @@ project_root/
    - Alternative docs: http://localhost:8000/redoc
    - Root endpoint: http://localhost:8000
 
-## 🔐 Authentication
+## Authentication
 
 ### Register a new user
 ```bash
@@ -108,7 +108,7 @@ Include the token in the Authorization header for protected endpoints:
 Authorization: Bearer your_jwt_token_here
 ```
 
-## 📚 API Endpoints
+## API Endpoints
 
 ### Authentication Endpoints
 | Method | Endpoint | Description | Auth Required |
@@ -128,7 +128,7 @@ Authorization: Bearer your_jwt_token_here
 | GET | `/employees/search` | Search employees by skill | No |
 | GET | `/employees/avg-salary` | Get average salary by department | No |
 
-## 💡 Usage Examples
+## Usage Examples
 
 ### Create an Employee
 ```bash
