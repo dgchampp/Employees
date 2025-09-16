@@ -161,7 +161,7 @@ GET /employees/?department=Engineering&page=1&size=5
 GET /employees/avg-salary
 ```
 
-## 📊 Data Models
+## Data Models
 
 ### Employee Model
 ```json
@@ -183,7 +183,7 @@ GET /employees/avg-salary
 }
 ```
 
-## 🔧 Configuration
+## Configuration
 
 Update `app/config.py` to customize:
 
