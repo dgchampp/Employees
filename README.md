@@ -22,7 +22,7 @@ project_root/
 └── requirements.txt
 ```
 
-##Features
+## Features
 
 - **JWT Authentication** - Secure user registration and login
 - **Employee CRUD Operations** - Create, read, update, and delete employees
