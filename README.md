@@ -2,7 +2,7 @@
 
 A FastAPI-based REST API for managing employees with JWT authentication, built with MongoDB as the database.
 
-## 📁 Project Structure
+## Project Structure
 ```text
 project_root/
 ├── app/
@@ -48,7 +48,7 @@ project_root/
 - MongoDB 4.0+ (running locally or remote instance)
 - pip (Python package installer)
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository**
    ```bash
