@@ -53,7 +53,7 @@ project_root/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd employee-management-api
+   cd Employees
    ```
 
 2. **Create a virtual environment**
