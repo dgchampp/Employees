@@ -193,7 +193,7 @@ MONGO_URI = "mongodb://localhost:27017"
 DB_NAME = "assessment_db"
 
 # JWT Configuration
-SECRET_KEY = "your_secret_key_here"
+SECRET_KEY = "This is a secret key"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 60
 
